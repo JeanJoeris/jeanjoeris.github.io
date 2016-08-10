@@ -1,7 +1,8 @@
-body {
-  background-color: #030303;
-}
 
+
+body {
+  background-image: url("/images/rdx_starfield.jpg");
+}
 
 #header {
   color: black;
@@ -57,6 +58,7 @@ body {
   height: 100%;
   margin-left: 50px;
   margin-right: 50px;
+  margin-top: 20px;
   padding-top: 150px;
   padding-right: 50px;
   padding-left: 50px;
@@ -70,11 +72,16 @@ body {
   margin-right: 100px;
 }
 
+.home_post span {
+  margin-left: 10px;
+}
+
 #footer {
   background-color: #dddddd;
   margin-top: -15px;
   margin-left: 50px;
   margin-right: 50px;
+  margin-bottom: 100px;
   height: 70px;
   border: 2px solid #aaaaaa;
   border-bottom-right-radius: 5px;
