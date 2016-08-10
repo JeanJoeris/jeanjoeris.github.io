@@ -38,12 +38,11 @@ body {
 
 #navbar li a:link{
   text-decoration: none;
-  color: purple;
+  color: #000000;
 }
 
 #navbar li a:hover{
   background-color: #dddddd;
-  color: purple;
   opacity: 0.5;
 }
 
