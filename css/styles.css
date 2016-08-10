@@ -6,7 +6,7 @@ body {
 #header {
   color: black;
   background-color: #bbbbbb;
-  height: 160px;
+  height: 140px;
   width: 1400px;
   left: 50%;
   margin-left: -700px;
@@ -19,7 +19,7 @@ body {
 }
 
 #navbar {
-  margin-top: 25px;
+  margin-top: -20px;
   margin-left: -30px;
   position: relative;
 }
